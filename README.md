@@ -57,10 +57,6 @@ pip install tensorflow keras scikit-image
    classifier("C:/Users/funmi/GitRepositories/Speed-Limit-Sign-Detection/RoadSign.jpg")
    classifier("C:/Users/funmi/GitRepositories/Speed-Limit-Sign-Detection/NotRoadSign.jpg")
    ```
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 Special thanks to the creators of the `splitfolders` library for simplifying dataset splitting and to the authors of the various libraries used in this project.
 
